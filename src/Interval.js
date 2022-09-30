@@ -1,4 +1,4 @@
-import { h } from "superfine";
+import { h } from "./vendor/superfine";
 
 const tag = "x-interval";
 

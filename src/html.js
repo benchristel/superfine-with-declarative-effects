@@ -1,5 +1,5 @@
-import { h } from "superfine";
-export { text } from "superfine";
+import { h } from "./vendor/superfine";
+export { text } from "./vendor/superfine";
 
 export function div_(...children) {
   return h("div", {}, children);
